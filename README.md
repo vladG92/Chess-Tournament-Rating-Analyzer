@@ -12,6 +12,6 @@ Step 1. Run the 'URS ratings scraper and parser', which will access a webpage, d
 
 Step 2. Run either of the other two Jupyter Notebook files once you have stored the relevant URS dataframe locally. The output should be self-explanatory and the code should take less than 5 seconds to execute fully.
 
-If you are curious about what the code actually accomplishes, or you want to learn more about Python, I suggest copying and pasting some code blocks into your favorite AI chatbot and asking it to elucidate the mystery. Truthfully, it helped me tremendously during the development of this little tool.
+If you are curious about what the code actually accomplishes, or you want to learn more about Python, I suggest copying and pasting some code blocks into your favorite AI chatbot and asking it to elucidate the mystery. Truthfully, it helped me tremendously during the development of this little tool. If you don't know how to run the code, ask an AI chatbot to assist with installing Python on your machine, and specifically Jupyter Notebook, where the files should be run.
 
-For any serious inquiries, you can reach me at https://twitter.com/vlad_chess
+For any serious inquiries, you can reach me at https://twitter.com/vlad_chess. For not so serious inquiries, I shall once again recommend discussing with your favorite AI chatbot, who is infinitely more knowledgeable than the author of this repo.
