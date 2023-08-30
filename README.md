@@ -8,9 +8,9 @@ This project came to me as an idea while I was reading the proposed FIDE Rating 
 
 To the extent that you're more curious about the methodology used and you want to get to work immediately:
 
--Run the 'URS ratings scraper and parser', which will access a webpage, download the monthly URS ratings Excel file, then store the FIDE ID, Name, and URS rating in a pickled Pandas   DataFrame (storing some tabulated data for easy future retrieval). Before you execute the code, please make sure you CHANGE the directory of the file download to match your desired one!     The estimated runtime of this program varies between 30 seconds to 2 minutes, depending on your hardware.
+1) Run the 'URS ratings scraper and parser', which will access a webpage, download the monthly URS ratings Excel file, then store the FIDE ID, Name, and URS rating in a pickled Pandas   DataFrame (storing some tabulated data for easy future retrieval). Before you execute the code, please make sure you CHANGE the directory of the file download to match your desired one!     The estimated runtime of this program varies between 30 seconds to 2 minutes, depending on your hardware.
 
--Run either of the other two Jupyter Notebook files once you have stored the relevant URS dataframe locally. The output should be self-explanatory and the code should take less than   5 seconds to execute fully.
+2) Run either of the other two Jupyter Notebook files once you have stored the relevant URS dataframe locally. The output should be self-explanatory and the code should take less than   5 seconds to execute fully.
 
 If you are curious about what the code actually accomplishes, or you want to learn more about Python, I suggest copying and pasting some code blocks into your favorite AI chatbot and asking it to elucidate the mystery. Truthfully, it helped me tremendously during the development of this little tool. If you don't know how to run the code, ask an AI chatbot to assist with installing Python on your machine, and specifically Jupyter Notebook, where the files should be run.
 
