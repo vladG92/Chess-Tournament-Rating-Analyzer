@@ -10,7 +10,7 @@ To the extent that you're more curious about the methodology used and you want t
 
 Step 1. Run the 'URS ratings scraper and parser', which will access a webpage, download the monthly URS ratings Excel file, then store the FIDE ID, Name, and URS rating in a pickled Pandas DataFrame (storing some tabulated data for easy future retrieval). Before you execute the code, please make sure you CHANGE the directory of the file download to match your desired one! The estimated runtime of this program varies between 30 seconds to 2 minutes, depending on your hardware.
 
-2. Run either of the other two Jupyter Notebook files once you have stored the relevant URS dataframe locally. The output should be self-explanatory.
+Step 2. Run either of the other two Jupyter Notebook files once you have stored the relevant URS dataframe locally. The output should be self-explanatory.
 
 If you are curious about what the code actually accomplishes, or you want to learn more about Python, I suggest copying and pasting some code blocks into your favorite AI chatbot and asking it to elucidate the mystery. Truthfully, it helped me tremendously during the development of this little tool.
 
